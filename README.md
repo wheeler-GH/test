@@ -1,4 +1,6 @@
-
+        "owner": {
+        "prototype": "montage/ui/loader.reel"
+        }
 This readme file provides a brief overview of the file and folder structure
 included in the default MontageJS project directory.
 

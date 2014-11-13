@@ -2,9 +2,9 @@
     "name": "test",
     "version": "0.1.0",
     "dependencies": {
-        "montage": "~0.14.0",
         "digit": "~0.5.0",
-        "mjs-volume": "git://github.com/fabrobinet/mjs-volume.git"
+        "mjs-volume": "git://github.com/fabrobinet/mjs-volume.git",
+        "montage": "~0.14.0"
     },
     "devDependencies": {
         "montage-testing": "~0.4.0"

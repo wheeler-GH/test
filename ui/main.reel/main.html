@@ -2,21 +2,40 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Main</title>
-
+    <title>
+        Main
+    </title>
     <link rel="stylesheet" href="main.css">
-
     <script type="text/montage-serialization">
-        {
-            "owner": {
-                "properties": {
-                    "element": {"#": "main"}
-                }
+    {
+        "owner": {
+            "properties": {
+                "element": {"#": "main"}
+            }
+        },
+        "scene": {
+            "prototype": "mjs-volume/runtime/scene",
+            "properties": {
+                "path": "shapeso.glTF/shapeso.json"
+            }
+        },
+        "sceneView": {
+            "prototype": "mjs-volume/ui/scene-view.reel",
+            "properties": {
+                "element": {"#": "sceneView"},
+                "height": "400",
+                "scene": {"@": "scene"},
+                "width": "400"
             }
         }
+    }
     </script>
 </head>
 <body>
-    <div data-montage-id="main" data-montage-skin="light" class="Main"></div>
+    <div data-montage-id="main" data-montage-skin="light" class="Main">
+        <div data-montage-id="sceneView">
+            <canvas data-montage-id="canvas"></canvas>
+        </div>
+    </div>
 </body>
 </html>

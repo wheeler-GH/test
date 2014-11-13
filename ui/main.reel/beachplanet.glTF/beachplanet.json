@@ -1,76 +1,15 @@
 {
     "accessors": {
-        "accessor_0": {
-            "bufferView": "bufferView_707",
-            "byteOffset": 843648,
-            "count": 501,
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 843648,
-                        "count": 547,
-                        "mode": "ascii",
-                        "type": 5121
-                    }
-                }
-            },
-            "type": 5126
+        "accessor_102": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "count": 336,
+            "type": 5123
         },
-        "accessor_1": {
-            "bufferView": "bufferView_707",
-            "byteOffset": 844195,
-            "count": 501,
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 844195,
-                        "count": 5265,
-                        "mode": "ascii",
-                        "type": 5121
-                    }
-                }
-            },
-            "type": 35665
-        },
-        "accessor_2": {
-            "bufferView": "bufferView_707",
-            "byteOffset": 849460,
-            "count": 501,
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 849460,
-                        "count": 2039,
-                        "mode": "ascii",
-                        "type": 5121
-                    }
-                }
-            },
-            "type": 35665
-        },
-        "accessor_3": {
-            "bufferView": "bufferView_707",
-            "byteOffset": 851499,
-            "count": 501,
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 851499,
-                        "count": 2508,
-                        "mode": "ascii",
-                        "type": 5121
-                    }
-                }
-            },
-            "type": 35666
-        },
-        "attribute_104": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 142567,
+        "accessor_104": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 0,
             "byteStride": 12,
             "count": 336,
             "max": [
@@ -85,9 +24,9 @@
             ],
             "type": 35665
         },
-        "attribute_106": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 146599,
+        "accessor_106": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 4032,
             "byteStride": 12,
             "count": 336,
             "max": [
@@ -102,9 +41,9 @@
             ],
             "type": 35665
         },
-        "attribute_108": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 150631,
+        "accessor_108": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 8064,
             "byteStride": 8,
             "count": 336,
             "max": [
@@ -117,9 +56,16 @@
             ],
             "type": 35664
         },
-        "attribute_131": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 150031,
+        "accessor_129": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 104094,
+            "byteStride": 0,
+            "count": 1764,
+            "type": 5123
+        },
+        "accessor_131": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1665504,
             "byteStride": 12,
             "count": 1764,
             "max": [
@@ -134,9 +80,9 @@
             ],
             "type": 35665
         },
-        "attribute_133": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 171199,
+        "accessor_133": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1686672,
             "byteStride": 12,
             "count": 1764,
             "max": [
@@ -151,9 +97,9 @@
             ],
             "type": 35665
         },
-        "attribute_135": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 192367,
+        "accessor_135": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1707840,
             "byteStride": 8,
             "count": 1764,
             "max": [
@@ -166,9 +112,16 @@
             ],
             "type": 35664
         },
-        "attribute_158": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 176994,
+        "accessor_156": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 99252,
+            "byteStride": 0,
+            "count": 2421,
+            "type": 5123
+        },
+        "accessor_158": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1588032,
             "byteStride": 12,
             "count": 2421,
             "max": [
@@ -183,9 +136,9 @@
             ],
             "type": 35665
         },
-        "attribute_160": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 206046,
+        "accessor_160": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1617084,
             "byteStride": 12,
             "count": 2421,
             "max": [
@@ -200,9 +153,9 @@
             ],
             "type": 35665
         },
-        "attribute_162": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 235098,
+        "accessor_162": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1646136,
             "byteStride": 8,
             "count": 2421,
             "max": [
@@ -215,9 +168,16 @@
             ],
             "type": 35664
         },
-        "attribute_185": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 206602,
+        "accessor_183": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 26100,
+            "byteStride": 0,
+            "count": 1404,
+            "type": 5123
+        },
+        "accessor_185": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 417600,
             "byteStride": 12,
             "count": 1404,
             "max": [
@@ -232,9 +192,9 @@
             ],
             "type": 35665
         },
-        "attribute_187": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 223450,
+        "accessor_187": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 434448,
             "byteStride": 12,
             "count": 1404,
             "max": [
@@ -249,9 +209,9 @@
             ],
             "type": 35665
         },
-        "attribute_189": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 240298,
+        "accessor_189": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 451296,
             "byteStride": 8,
             "count": 1404,
             "max": [
@@ -264,9 +224,23 @@
             ],
             "type": 35664
         },
-        "attribute_212": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 238113,
+        "accessor_21": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 7500,
+            "byteStride": 0,
+            "count": 5982,
+            "type": 5123
+        },
+        "accessor_210": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 63396,
+            "byteStride": 0,
+            "count": 5976,
+            "type": 5123
+        },
+        "accessor_212": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1014336,
             "byteStride": 12,
             "count": 5976,
             "max": [
@@ -281,9 +255,9 @@
             ],
             "type": 35665
         },
-        "attribute_214": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 309825,
+        "accessor_214": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1086048,
             "byteStride": 12,
             "count": 5976,
             "max": [
@@ -298,9 +272,9 @@
             ],
             "type": 35665
         },
-        "attribute_216": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 381537,
+        "accessor_216": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1157760,
             "byteStride": 8,
             "count": 5976,
             "max": [
@@ -313,9 +287,9 @@
             ],
             "type": 35664
         },
-        "attribute_23": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 11964,
+        "accessor_23": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 120000,
             "byteStride": 12,
             "count": 5982,
             "max": [
@@ -330,9 +304,16 @@
             ],
             "type": 35665
         },
-        "attribute_239": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 315769,
+        "accessor_237": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 31716,
+            "byteStride": 0,
+            "count": 798,
+            "type": 5123
+        },
+        "accessor_239": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 507456,
             "byteStride": 12,
             "count": 798,
             "max": [
@@ -347,9 +328,9 @@
             ],
             "type": 35665
         },
-        "attribute_241": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 325345,
+        "accessor_241": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 517032,
             "byteStride": 12,
             "count": 798,
             "max": [
@@ -364,9 +345,9 @@
             ],
             "type": 35665
         },
-        "attribute_243": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 334921,
+        "accessor_243": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 526608,
             "byteStride": 8,
             "count": 798,
             "max": [
@@ -379,9 +360,9 @@
             ],
             "type": 35664
         },
-        "attribute_25": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 83748,
+        "accessor_25": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 191784,
             "byteStride": 12,
             "count": 5982,
             "max": [
@@ -396,9 +377,16 @@
             ],
             "type": 35665
         },
-        "attribute_266": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 329116,
+        "accessor_264": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 672,
+            "byteStride": 0,
+            "count": 1929,
+            "type": 5123
+        },
+        "accessor_266": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 10752,
             "byteStride": 12,
             "count": 1929,
             "max": [
@@ -413,9 +401,9 @@
             ],
             "type": 35665
         },
-        "attribute_268": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 352264,
+        "accessor_268": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 33900,
             "byteStride": 12,
             "count": 1929,
             "max": [
@@ -430,9 +418,9 @@
             ],
             "type": 35665
         },
-        "attribute_27": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 155532,
+        "accessor_27": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 263568,
             "byteStride": 8,
             "count": 5982,
             "max": [
@@ -445,9 +433,9 @@
             ],
             "type": 35664
         },
-        "attribute_270": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 375412,
+        "accessor_270": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 57048,
             "byteStride": 8,
             "count": 1929,
             "max": [
@@ -460,9 +448,16 @@
             ],
             "type": 35664
         },
-        "attribute_293": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 353678,
+        "accessor_291": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 34512,
+            "byteStride": 0,
+            "count": 864,
+            "type": 5123
+        },
+        "accessor_293": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 552192,
             "byteStride": 12,
             "count": 864,
             "max": [
@@ -477,9 +472,9 @@
             ],
             "type": 35665
         },
-        "attribute_295": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 364046,
+        "accessor_295": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 562560,
             "byteStride": 12,
             "count": 864,
             "max": [
@@ -494,9 +489,9 @@
             ],
             "type": 35665
         },
-        "attribute_297": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 374414,
+        "accessor_297": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 572928,
             "byteStride": 8,
             "count": 864,
             "max": [
@@ -509,9 +504,16 @@
             ],
             "type": 35664
         },
-        "attribute_320": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 366620,
+        "accessor_318": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 33312,
+            "byteStride": 0,
+            "count": 600,
+            "type": 5123
+        },
+        "accessor_320": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 532992,
             "byteStride": 12,
             "count": 600,
             "max": [
@@ -526,9 +528,9 @@
             ],
             "type": 35665
         },
-        "attribute_322": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 373820,
+        "accessor_322": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 540192,
             "byteStride": 12,
             "count": 600,
             "max": [
@@ -543,9 +545,9 @@
             ],
             "type": 35665
         },
-        "attribute_324": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 381020,
+        "accessor_324": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 547392,
             "byteStride": 8,
             "count": 600,
             "max": [
@@ -558,9 +560,16 @@
             ],
             "type": 35664
         },
-        "attribute_347": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 378079,
+        "accessor_345": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 28908,
+            "byteStride": 0,
+            "count": 1404,
+            "type": 5123
+        },
+        "accessor_347": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 462528,
             "byteStride": 12,
             "count": 1404,
             "max": [
@@ -575,9 +584,9 @@
             ],
             "type": 35665
         },
-        "attribute_349": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 394927,
+        "accessor_349": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 479376,
             "byteStride": 12,
             "count": 1404,
             "max": [
@@ -592,9 +601,9 @@
             ],
             "type": 35665
         },
-        "attribute_351": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 411775,
+        "accessor_351": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 496224,
             "byteStride": 8,
             "count": 1404,
             "max": [
@@ -607,9 +616,16 @@
             ],
             "type": 35664
         },
-        "attribute_374": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 399711,
+        "accessor_372": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 36240,
+            "byteStride": 0,
+            "count": 432,
+            "type": 5123
+        },
+        "accessor_374": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 579840,
             "byteStride": 12,
             "count": 432,
             "max": [
@@ -624,9 +640,9 @@
             ],
             "type": 35665
         },
-        "attribute_376": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 404895,
+        "accessor_376": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 585024,
             "byteStride": 12,
             "count": 432,
             "max": [
@@ -641,9 +657,9 @@
             ],
             "type": 35665
         },
-        "attribute_378": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 410079,
+        "accessor_378": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 590208,
             "byteStride": 8,
             "count": 432,
             "max": [
@@ -656,9 +672,16 @@
             ],
             "type": 35664
         },
-        "attribute_401": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 406760,
+        "accessor_399": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 37260,
+            "byteStride": 0,
+            "count": 324,
+            "type": 5123
+        },
+        "accessor_401": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 596160,
             "byteStride": 12,
             "count": 324,
             "max": [
@@ -673,9 +696,9 @@
             ],
             "type": 35665
         },
-        "attribute_403": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 410648,
+        "accessor_403": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 600048,
             "byteStride": 12,
             "count": 324,
             "max": [
@@ -690,9 +713,9 @@
             ],
             "type": 35665
         },
-        "attribute_405": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 414536,
+        "accessor_405": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 603936,
             "byteStride": 8,
             "count": 324,
             "max": [
@@ -705,9 +728,16 @@
             ],
             "type": 35664
         },
-        "attribute_428": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 411508,
+        "accessor_426": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 37104,
+            "byteStride": 0,
+            "count": 78,
+            "type": 5123
+        },
+        "accessor_428": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 593664,
             "byteStride": 12,
             "count": 78,
             "max": [
@@ -722,9 +752,9 @@
             ],
             "type": 35665
         },
-        "attribute_430": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 412444,
+        "accessor_430": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 594600,
             "byteStride": 12,
             "count": 78,
             "max": [
@@ -739,9 +769,9 @@
             ],
             "type": 35665
         },
-        "attribute_432": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 413380,
+        "accessor_432": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 595536,
             "byteStride": 8,
             "count": 78,
             "max": [
@@ -754,9 +784,16 @@
             ],
             "type": 35664
         },
-        "attribute_455": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 416182,
+        "accessor_453": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 41292,
+            "byteStride": 0,
+            "count": 1692,
+            "type": 5123
+        },
+        "accessor_455": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 660672,
             "byteStride": 12,
             "count": 1692,
             "max": [
@@ -771,9 +808,9 @@
             ],
             "type": 35665
         },
-        "attribute_457": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 436486,
+        "accessor_457": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 680976,
             "byteStride": 12,
             "count": 1692,
             "max": [
@@ -788,9 +825,9 @@
             ],
             "type": 35665
         },
-        "attribute_459": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 456790,
+        "accessor_459": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 701280,
             "byteStride": 8,
             "count": 1692,
             "max": [
@@ -803,9 +840,23 @@
             ],
             "type": 35664
         },
-        "attribute_482": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 444820,
+        "accessor_48": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 107622,
+            "byteStride": 0,
+            "count": 2676,
+            "type": 5123
+        },
+        "accessor_480": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 44676,
+            "byteStride": 0,
+            "count": 1692,
+            "type": 5123
+        },
+        "accessor_482": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 714816,
             "byteStride": 12,
             "count": 1692,
             "max": [
@@ -820,9 +871,9 @@
             ],
             "type": 35665
         },
-        "attribute_484": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 465124,
+        "accessor_484": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 735120,
             "byteStride": 12,
             "count": 1692,
             "max": [
@@ -837,9 +888,9 @@
             ],
             "type": 35665
         },
-        "attribute_486": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 485428,
+        "accessor_486": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 755424,
             "byteStride": 8,
             "count": 1692,
             "max": [
@@ -852,9 +903,9 @@
             ],
             "type": 35664
         },
-        "attribute_50": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 90547,
+        "accessor_50": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1721952,
             "byteStride": 12,
             "count": 2676,
             "max": [
@@ -869,9 +920,16 @@
             ],
             "type": 35665
         },
-        "attribute_509": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 473462,
+        "accessor_507": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 48060,
+            "byteStride": 0,
+            "count": 1692,
+            "type": 5123
+        },
+        "accessor_509": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 768960,
             "byteStride": 12,
             "count": 1692,
             "max": [
@@ -886,9 +944,9 @@
             ],
             "type": 35665
         },
-        "attribute_511": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 493766,
+        "accessor_511": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 789264,
             "byteStride": 12,
             "count": 1692,
             "max": [
@@ -903,9 +961,9 @@
             ],
             "type": 35665
         },
-        "attribute_513": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 514070,
+        "accessor_513": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 809568,
             "byteStride": 8,
             "count": 1692,
             "max": [
@@ -918,9 +976,9 @@
             ],
             "type": 35664
         },
-        "attribute_52": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 122659,
+        "accessor_52": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1754064,
             "byteStride": 12,
             "count": 2676,
             "max": [
@@ -935,9 +993,16 @@
             ],
             "type": 35665
         },
-        "attribute_536": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 502148,
+        "accessor_534": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 37908,
+            "byteStride": 0,
+            "count": 1692,
+            "type": 5123
+        },
+        "accessor_536": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 606528,
             "byteStride": 12,
             "count": 1692,
             "max": [
@@ -952,9 +1017,9 @@
             ],
             "type": 35665
         },
-        "attribute_538": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 522452,
+        "accessor_538": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 626832,
             "byteStride": 12,
             "count": 1692,
             "max": [
@@ -969,9 +1034,9 @@
             ],
             "type": 35665
         },
-        "attribute_54": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 154771,
+        "accessor_54": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1786176,
             "byteStride": 8,
             "count": 2676,
             "max": [
@@ -984,9 +1049,9 @@
             ],
             "type": 35664
         },
-        "attribute_540": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 542756,
+        "accessor_540": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 647136,
             "byteStride": 8,
             "count": 1692,
             "max": [
@@ -999,9 +1064,16 @@
             ],
             "type": 35664
         },
-        "attribute_563": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 533173,
+        "accessor_561": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 19464,
+            "byteStride": 0,
+            "count": 2880,
+            "type": 5123
+        },
+        "accessor_563": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 311424,
             "byteStride": 12,
             "count": 2880,
             "max": [
@@ -1016,9 +1088,9 @@
             ],
             "type": 35665
         },
-        "attribute_565": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 567733,
+        "accessor_565": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 345984,
             "byteStride": 12,
             "count": 2880,
             "max": [
@@ -1033,9 +1105,9 @@
             ],
             "type": 35665
         },
-        "attribute_567": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 602293,
+        "accessor_567": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 380544,
             "byteStride": 8,
             "count": 2880,
             "max": [
@@ -1048,9 +1120,16 @@
             ],
             "type": 35664
         },
-        "attribute_590": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 573952,
+        "accessor_588": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 25224,
+            "byteStride": 0,
+            "count": 438,
+            "type": 5123
+        },
+        "accessor_590": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 403584,
             "byteStride": 12,
             "count": 438,
             "max": [
@@ -1065,9 +1144,9 @@
             ],
             "type": 35665
         },
-        "attribute_592": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 579208,
+        "accessor_592": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 408840,
             "byteStride": 12,
             "count": 438,
             "max": [
@@ -1082,9 +1161,9 @@
             ],
             "type": 35665
         },
-        "attribute_594": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 584464,
+        "accessor_594": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 414096,
             "byteStride": 8,
             "count": 438,
             "max": [
@@ -1097,9 +1176,16 @@
             ],
             "type": 35664
         },
-        "attribute_617": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 591643,
+        "accessor_615": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 51444,
+            "byteStride": 0,
+            "count": 5976,
+            "type": 5123
+        },
+        "accessor_617": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 823104,
             "byteStride": 12,
             "count": 5976,
             "max": [
@@ -1114,9 +1200,9 @@
             ],
             "type": 35665
         },
-        "attribute_619": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 663355,
+        "accessor_619": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 894816,
             "byteStride": 12,
             "count": 5976,
             "max": [
@@ -1131,9 +1217,9 @@
             ],
             "type": 35665
         },
-        "attribute_621": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 735067,
+        "accessor_621": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 966528,
             "byteStride": 8,
             "count": 5976,
             "max": [
@@ -1146,9 +1232,16 @@
             ],
             "type": 35664
         },
-        "attribute_644": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 679576,
+        "accessor_642": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 87300,
+            "byteStride": 0,
+            "count": 5976,
+            "type": 5123
+        },
+        "accessor_644": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1396800,
             "byteStride": 12,
             "count": 5976,
             "max": [
@@ -1163,9 +1256,9 @@
             ],
             "type": 35665
         },
-        "attribute_646": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 751288,
+        "accessor_646": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1468512,
             "byteStride": 12,
             "count": 5976,
             "max": [
@@ -1180,9 +1273,9 @@
             ],
             "type": 35665
         },
-        "attribute_648": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 823000,
+        "accessor_648": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1540224,
             "byteStride": 8,
             "count": 5976,
             "max": [
@@ -1195,9 +1288,16 @@
             ],
             "type": 35664
         },
-        "attribute_671": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 767588,
+        "accessor_669": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 75348,
+            "byteStride": 0,
+            "count": 5976,
+            "type": 5123
+        },
+        "accessor_671": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1205568,
             "byteStride": 12,
             "count": 5976,
             "max": [
@@ -1212,9 +1312,9 @@
             ],
             "type": 35665
         },
-        "attribute_673": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 839300,
+        "accessor_673": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1277280,
             "byteStride": 12,
             "count": 5976,
             "max": [
@@ -1229,9 +1329,9 @@
             ],
             "type": 35665
         },
-        "attribute_675": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 911012,
+        "accessor_675": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 1348992,
             "byteStride": 8,
             "count": 5976,
             "max": [
@@ -1244,9 +1344,16 @@
             ],
             "type": 35664
         },
-        "attribute_77": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 124594,
+        "accessor_75": {
+            "bufferView": "bufferView_681",
+            "byteOffset": 4530,
+            "byteStride": 0,
+            "count": 1485,
+            "type": 5123
+        },
+        "accessor_77": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 72480,
             "byteStride": 12,
             "count": 1485,
             "max": [
@@ -1261,9 +1368,9 @@
             ],
             "type": 35665
         },
-        "attribute_79": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 142414,
+        "accessor_79": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 90300,
             "byteStride": 12,
             "count": 1485,
             "max": [
@@ -1278,9 +1385,9 @@
             ],
             "type": 35665
         },
-        "attribute_81": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 160234,
+        "accessor_81": {
+            "bufferView": "bufferView_682",
+            "byteOffset": 108120,
             "byteStride": 8,
             "count": 1485,
             "max": [
@@ -1293,155 +1400,29 @@
             ],
             "type": 35664
         },
-        "indices_102": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 141895,
-            "count": 336,
-            "type": 5123
-        },
-        "indices_129": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 146503,
-            "count": 1764,
-            "type": 5123
-        },
-        "indices_156": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 172152,
-            "count": 2421,
-            "type": 5123
-        },
-        "indices_183": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 203794,
-            "count": 1404,
-            "type": 5123
-        },
-        "indices_21": {
-            "bufferView": "bufferView_708",
+        "animAccessor_0": {
+            "bufferView": "bufferView_680",
             "byteOffset": 0,
-            "count": 5982,
-            "type": 5123
+            "count": 501,
+            "type": 5126
         },
-        "indices_210": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 226161,
-            "count": 5976,
-            "type": 5123
+        "animAccessor_1": {
+            "bufferView": "bufferView_680",
+            "byteOffset": 2004,
+            "count": 501,
+            "type": 35665
         },
-        "indices_237": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 314173,
-            "count": 798,
-            "type": 5123
+        "animAccessor_2": {
+            "bufferView": "bufferView_680",
+            "byteOffset": 8016,
+            "count": 501,
+            "type": 35665
         },
-        "indices_264": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 325258,
-            "count": 1929,
-            "type": 5123
-        },
-        "indices_291": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 351950,
-            "count": 864,
-            "type": 5123
-        },
-        "indices_318": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 365420,
-            "count": 600,
-            "type": 5123
-        },
-        "indices_345": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 375271,
-            "count": 1404,
-            "type": 5123
-        },
-        "indices_372": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 398847,
-            "count": 432,
-            "type": 5123
-        },
-        "indices_399": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 406112,
-            "count": 324,
-            "type": 5123
-        },
-        "indices_426": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 411352,
-            "count": 78,
-            "type": 5123
-        },
-        "indices_453": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 412798,
-            "count": 1692,
-            "type": 5123
-        },
-        "indices_48": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 85195,
-            "count": 2676,
-            "type": 5123
-        },
-        "indices_480": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 441436,
-            "count": 1692,
-            "type": 5123
-        },
-        "indices_507": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 470078,
-            "count": 1692,
-            "type": 5123
-        },
-        "indices_534": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 498764,
-            "count": 1692,
-            "type": 5123
-        },
-        "indices_561": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 527413,
-            "count": 2880,
-            "type": 5123
-        },
-        "indices_588": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 573076,
-            "count": 438,
-            "type": 5123
-        },
-        "indices_615": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 579691,
-            "count": 5976,
-            "type": 5123
-        },
-        "indices_642": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 667624,
-            "count": 5976,
-            "type": 5123
-        },
-        "indices_669": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 755636,
-            "count": 5976,
-            "type": 5123
-        },
-        "indices_75": {
-            "bufferView": "bufferView_708",
-            "byteOffset": 121624,
-            "count": 1485,
-            "type": 5123
+        "animAccessor_3": {
+            "bufferView": "bufferView_680",
+            "byteOffset": 14028,
+            "count": 501,
+            "type": 35666
         }
     },
     "animations": {
@@ -1471,10 +1452,10 @@
             ],
             "count": 501,
             "parameters": {
-                "TIME": "accessor_0",
-                "rotation": "accessor_3",
-                "scale": "accessor_1",
-                "translation": "accessor_2"
+                "TIME": "animAccessor_0",
+                "rotation": "animAccessor_3",
+                "scale": "animAccessor_1",
+                "translation": "animAccessor_2"
             },
             "samplers": {
                 "animation_0_rotation_sampler": {
@@ -1496,40 +1477,35 @@
         }
     },
     "asset": {
-        "extras": {
-            "premultipliedAlpha": true
-        },
-        "generator": "collada2gltf@12cf5c20aadf57e5e9c1fc5ebe0435239df95168"
+        "generator": "collada2gltf@63e932907e3f0c834c8668d04f03ddb6eabf78d1",
+        "premultipliedAlpha": true,
+        "profile": "WebGL 1.0.2",
+        "version": 0.6
     },
     "bufferViews": {
-        "bufferView_705": {
+        "bufferView_680": {
             "buffer": "beachplanet",
-            "byteLength": 0,
-            "byteOffset": 0,
-            "target": 34962
+            "byteLength": 22044,
+            "byteOffset": 0
         },
-        "bufferView_706": {
+        "bufferView_681": {
             "buffer": "beachplanet",
-            "byteLength": 0,
-            "byteOffset": 0,
+            "byteLength": 112976,
+            "byteOffset": 22044,
             "target": 34963
         },
-        "bufferView_707": {
+        "bufferView_682": {
             "buffer": "beachplanet",
-            "byteLength": 0,
-            "byteOffset": 0
-        },
-        "bufferView_708": {
-            "buffer": "beachplanetcompression",
-            "byteLength": 854007,
-            "byteOffset": 0
+            "byteLength": 1807584,
+            "byteOffset": 135020,
+            "target": 34962
         }
     },
     "buffers": {
-        "beachplanetcompression": {
-            "byteLength": 854007,
-            "path": "beachplanetcompression.bin",
-            "type": "text"
+        "beachplanet": {
+            "byteLength": 1942604,
+            "path": "beachplanet.bin",
+            "type": "arraybuffer"
         }
     },
     "cameras": {
@@ -1615,56 +1591,56 @@
         }
     },
     "images": {
-        "image_0": {
-            "path": "images/0_background.JPG"
+        "assarium_png": {
+            "path": "2_assarium.png"
         },
-        "image_1": {
-            "path": "images/1_trunk.JPG"
+        "background_JPG": {
+            "path": "0_background.JPG"
         },
-        "image_10": {
-            "path": "images/10_flowers_orange.PNG"
+        "buoy_baked_JPG": {
+            "path": "14_buoy_baked.JPG"
         },
-        "image_11": {
-            "path": "images/11_flowers_whites.PNG"
+        "cabin_baked_JPG": {
+            "path": "15_cabin_baked.JPG"
         },
-        "image_12": {
-            "path": "images/12_flowers_pink.PNG"
+        "cabin_door_JPG": {
+            "path": "3_cabin_door.JPG"
         },
-        "image_13": {
-            "path": "images/13_leaves.png"
+        "dolphin_baked_jpg": {
+            "path": "6_dolphin_baked.jpg"
         },
-        "image_14": {
-            "path": "images/14_buoy_baked.JPG"
+        "flowers_orange_PNG": {
+            "path": "10_flowers_orange.PNG"
         },
-        "image_15": {
-            "path": "images/15_cabin_baked.JPG"
+        "flowers_pink_PNG": {
+            "path": "12_flowers_pink.PNG"
         },
-        "image_16": {
-            "path": "images/16_logo_cabin.JPG"
+        "flowers_whites_PNG": {
+            "path": "11_flowers_whites.PNG"
         },
-        "image_2": {
-            "path": "images/2_assarium.png"
+        "leaves_png": {
+            "path": "13_leaves.png"
         },
-        "image_3": {
-            "path": "images/3_cabin_door.JPG"
+        "logo_cabin_JPG": {
+            "path": "16_logo_cabin.JPG"
         },
-        "image_4": {
-            "path": "images/4_toys.JPG"
+        "logo_montage_jpg": {
+            "path": "7_logo_montage.jpg"
         },
-        "image_5": {
-            "path": "images/5_palm.jpg"
+        "palm_jpg": {
+            "path": "5_palm.jpg"
         },
-        "image_6": {
-            "path": "images/6_dolphin_baked.jpg"
+        "seaGull_baked_jpg": {
+            "path": "9_seaGull_baked.jpg"
         },
-        "image_7": {
-            "path": "images/7_logo_montage.jpg"
+        "starfish_jpg": {
+            "path": "8_starfish.jpg"
         },
-        "image_8": {
-            "path": "images/8_starfish.jpg"
+        "toys_JPG": {
+            "path": "4_toys.JPG"
         },
-        "image_9": {
-            "path": "images/9_seaGull_baked.jpg"
+        "trunk_JPG": {
+            "path": "1_trunk.JPG"
         }
     },
     "lights": {
@@ -1682,14 +1658,20 @@
     "materials": {
         "Standardmaterial": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_0",
-                    "diffuse": "texture_image_0",
+                    "ambient": "texture_background_JPG",
+                    "diffuse": "texture_background_JPG",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1698,21 +1680,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "Standardmaterial"
         },
         "_7_-_Default": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_16",
-                    "diffuse": "texture_image_16",
+                    "ambient": "texture_logo_cabin_JPG",
+                    "diffuse": "texture_logo_cabin_JPG",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1721,21 +1710,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "_7_-_Default"
         },
         "assirum": {
             "instanceTechnique": {
-                "technique": "technique2",
+                "technique": "technique1",
                 "values": {
-                    "ambient": "texture_image_2",
-                    "diffuse": "texture_image_2",
+                    "ambient": "texture_assarium_png",
+                    "diffuse": "texture_assarium_png",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1744,21 +1740,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "assirum"
         },
         "buoy": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_14",
-                    "diffuse": "texture_image_14",
+                    "ambient": "texture_buoy_baked_JPG",
+                    "diffuse": "texture_buoy_baked_JPG",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1767,21 +1770,28 @@
                         0,
                         0,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "buoy"
         },
         "cabin": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_15",
-                    "diffuse": "texture_image_15",
+                    "ambient": "texture_cabin_baked_JPG",
+                    "diffuse": "texture_cabin_baked_JPG",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1790,21 +1800,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "cabin"
         },
         "dolphin": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_6",
-                    "diffuse": "texture_image_6",
+                    "ambient": "texture_dolphin_baked_jpg",
+                    "diffuse": "texture_dolphin_baked_jpg",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1813,21 +1830,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "dolphin"
         },
         "door": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_3",
-                    "diffuse": "texture_image_3",
+                    "ambient": "texture_cabin_door_JPG",
+                    "diffuse": "texture_cabin_door_JPG",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1836,21 +1860,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "door"
         },
         "flowersWhite": {
             "instanceTechnique": {
-                "technique": "technique3",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_11",
-                    "diffuse": "texture_image_11",
+                    "ambient": "texture_flowers_whites_PNG",
+                    "diffuse": "texture_flowers_whites_PNG",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1859,21 +1890,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "flowersWhite"
         },
         "flowersorange": {
             "instanceTechnique": {
-                "technique": "technique3",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_10",
-                    "diffuse": "texture_image_10",
+                    "ambient": "texture_flowers_orange_PNG",
+                    "diffuse": "texture_flowers_orange_PNG",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1882,21 +1920,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "flowersorange"
         },
         "flowerspink": {
             "instanceTechnique": {
-                "technique": "technique3",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_12",
-                    "diffuse": "texture_image_12",
+                    "ambient": "texture_flowers_pink_PNG",
+                    "diffuse": "texture_flowers_pink_PNG",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1905,21 +1950,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "flowerspink"
         },
         "fougere2": {
             "instanceTechnique": {
-                "technique": "technique2",
+                "technique": "technique1",
                 "values": {
-                    "ambient": "texture_image_13",
-                    "diffuse": "texture_image_13",
+                    "ambient": "texture_leaves_png",
+                    "diffuse": "texture_leaves_png",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1928,21 +1980,28 @@
                         0,
                         0,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "fougere2"
         },
         "gears": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_5",
-                    "diffuse": "texture_image_5",
+                    "ambient": "texture_palm_jpg",
+                    "diffuse": "texture_palm_jpg",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1951,21 +2010,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "gears"
         },
         "gull": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_9",
-                    "diffuse": "texture_image_9",
+                    "ambient": "texture_seaGull_baked_jpg",
+                    "diffuse": "texture_seaGull_baked_jpg",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1974,21 +2040,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "gull"
         },
         "logo": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_7",
-                    "diffuse": "texture_image_7",
+                    "ambient": "texture_logo_montage_jpg",
+                    "diffuse": "texture_logo_montage_jpg",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -1997,21 +2070,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "logo"
         },
         "starfish": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_8",
-                    "diffuse": "texture_image_8",
+                    "ambient": "texture_starfish_jpg",
+                    "diffuse": "texture_starfish_jpg",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -2020,21 +2100,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "starfish"
         },
         "toys": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_4",
-                    "diffuse": "texture_image_4",
+                    "ambient": "texture_toys_JPG",
+                    "diffuse": "texture_toys_JPG",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -2043,21 +2130,28 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "toys"
         },
         "trunk": {
             "instanceTechnique": {
-                "technique": "technique1",
+                "technique": "technique0",
                 "values": {
-                    "ambient": "texture_image_1",
-                    "diffuse": "texture_image_1",
+                    "ambient": "texture_trunk_JPG",
+                    "diffuse": "texture_trunk_JPG",
                     "emission": [
                         0,
                         0,
                         0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
                         1
                     ],
                     "shininess": 0,
@@ -2066,7 +2160,8 @@
                         0.9,
                         0.9,
                         1
-                    ]
+                    ],
+                    "transparency": 1
                 }
             },
             "name": "trunk"
@@ -2074,775 +2169,375 @@
     },
     "meshes": {
         "geom-CabineDoor": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 141895,
-                        "count": 4608,
-                        "floatAttributesIndexes": {
-                            "attribute_108": 0
-                        },
-                        "indicesCount": 336,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 336
-                    }
-                }
-            },
             "name": "CabineDoor",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_106",
-                        "POSITION": "attribute_104",
-                        "TEXCOORD_0": "attribute_108"
+                        "NORMAL": "accessor_106",
+                        "POSITION": "accessor_104",
+                        "TEXCOORD_0": "accessor_108"
                     },
-                    "indices": "indices_102",
+                    "indices": "accessor_102",
                     "material": "door",
                     "primitive": 4
                 }
             ]
         },
         "geom-SeanGull01": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 325258,
-                        "count": 26692,
-                        "floatAttributesIndexes": {
-                            "attribute_270": 0
-                        },
-                        "indicesCount": 1929,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 1929
-                    }
-                }
-            },
             "name": "SeanGull01",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_268",
-                        "POSITION": "attribute_266",
-                        "TEXCOORD_0": "attribute_270"
+                        "NORMAL": "accessor_268",
+                        "POSITION": "accessor_266",
+                        "TEXCOORD_0": "accessor_270"
                     },
-                    "indices": "indices_264",
+                    "indices": "accessor_264",
                     "material": "gull",
                     "primitive": 4
                 }
             ]
         },
         "geom-assarum002": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 121624,
-                        "count": 20271,
-                        "floatAttributesIndexes": {
-                            "attribute_81": 0
-                        },
-                        "indicesCount": 1485,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 1485
-                    }
-                }
-            },
             "name": "assarum002",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_79",
-                        "POSITION": "attribute_77",
-                        "TEXCOORD_0": "attribute_81"
+                        "NORMAL": "accessor_79",
+                        "POSITION": "accessor_77",
+                        "TEXCOORD_0": "accessor_81"
                     },
-                    "indices": "indices_75",
+                    "indices": "accessor_75",
                     "material": "assirum",
                     "primitive": 4
                 }
             ]
         },
         "geom-background": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 0,
-                        "count": 85195,
-                        "floatAttributesIndexes": {
-                            "attribute_27": 0
-                        },
-                        "indicesCount": 5982,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 5982
-                    }
-                }
-            },
             "name": "background",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_25",
-                        "POSITION": "attribute_23",
-                        "TEXCOORD_0": "attribute_27"
+                        "NORMAL": "accessor_25",
+                        "POSITION": "accessor_23",
+                        "TEXCOORD_0": "accessor_27"
                     },
-                    "indices": "indices_21",
+                    "indices": "accessor_21",
                     "material": "Standardmaterial",
                     "primitive": 4
                 }
             ]
         },
         "geom-buoy": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 527413,
-                        "count": 45663,
-                        "floatAttributesIndexes": {
-                            "attribute_567": 0
-                        },
-                        "indicesCount": 2880,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 2880
-                    }
-                }
-            },
             "name": "buoy",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_565",
-                        "POSITION": "attribute_563",
-                        "TEXCOORD_0": "attribute_567"
+                        "NORMAL": "accessor_565",
+                        "POSITION": "accessor_563",
+                        "TEXCOORD_0": "accessor_567"
                     },
-                    "indices": "indices_561",
+                    "indices": "accessor_561",
                     "material": "buoy",
                     "primitive": 4
                 }
             ]
         },
         "geom-cabine": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 573076,
-                        "count": 6615,
-                        "floatAttributesIndexes": {
-                            "attribute_594": 0
-                        },
-                        "indicesCount": 438,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 438
-                    }
-                }
-            },
             "name": "cabine",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_592",
-                        "POSITION": "attribute_590",
-                        "TEXCOORD_0": "attribute_594"
+                        "NORMAL": "accessor_592",
+                        "POSITION": "accessor_590",
+                        "TEXCOORD_0": "accessor_594"
                     },
-                    "indices": "indices_588",
+                    "indices": "accessor_588",
                     "material": "cabin",
                     "primitive": 4
                 }
             ]
         },
         "geom-dauphin001": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 203794,
-                        "count": 22367,
-                        "floatAttributesIndexes": {
-                            "attribute_189": 0
-                        },
-                        "indicesCount": 1404,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 1404
-                    }
-                }
-            },
             "name": "dauphin001",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_187",
-                        "POSITION": "attribute_185",
-                        "TEXCOORD_0": "attribute_189"
+                        "NORMAL": "accessor_187",
+                        "POSITION": "accessor_185",
+                        "TEXCOORD_0": "accessor_189"
                     },
-                    "indices": "indices_183",
+                    "indices": "accessor_183",
                     "material": "dolphin",
                     "primitive": 4
                 }
             ]
         },
         "geom-dauphin003": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 375271,
-                        "count": 23576,
-                        "floatAttributesIndexes": {
-                            "attribute_351": 0
-                        },
-                        "indicesCount": 1404,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 1404
-                    }
-                }
-            },
             "name": "dauphin003",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_349",
-                        "POSITION": "attribute_347",
-                        "TEXCOORD_0": "attribute_351"
+                        "NORMAL": "accessor_349",
+                        "POSITION": "accessor_347",
+                        "TEXCOORD_0": "accessor_351"
                     },
-                    "indices": "indices_345",
+                    "indices": "accessor_345",
                     "material": "dolphin",
                     "primitive": 4
                 }
             ]
         },
         "geom-etoile2mer003": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 314173,
-                        "count": 11085,
-                        "floatAttributesIndexes": {
-                            "attribute_243": 0
-                        },
-                        "indicesCount": 798,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 798
-                    }
-                }
-            },
             "name": "etoile2mer003",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_241",
-                        "POSITION": "attribute_239",
-                        "TEXCOORD_0": "attribute_243"
+                        "NORMAL": "accessor_241",
+                        "POSITION": "accessor_239",
+                        "TEXCOORD_0": "accessor_243"
                     },
-                    "indices": "indices_237",
+                    "indices": "accessor_237",
                     "material": "starfish",
                     "primitive": 4
                 }
             ]
         },
         "geom-fleursBlanches": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 365420,
-                        "count": 9851,
-                        "floatAttributesIndexes": {
-                            "attribute_324": 0
-                        },
-                        "indicesCount": 600,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 600
-                    }
-                }
-            },
             "name": "fleursBlanches",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_322",
-                        "POSITION": "attribute_320",
-                        "TEXCOORD_0": "attribute_324"
+                        "NORMAL": "accessor_322",
+                        "POSITION": "accessor_320",
+                        "TEXCOORD_0": "accessor_324"
                     },
-                    "indices": "indices_318",
+                    "indices": "accessor_318",
                     "material": "flowersWhite",
                     "primitive": 4
                 }
             ]
         },
         "geom-fleursOranges": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 351950,
-                        "count": 13470,
-                        "floatAttributesIndexes": {
-                            "attribute_297": 0
-                        },
-                        "indicesCount": 864,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 864
-                    }
-                }
-            },
             "name": "fleursOranges",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_295",
-                        "POSITION": "attribute_293",
-                        "TEXCOORD_0": "attribute_297"
+                        "NORMAL": "accessor_295",
+                        "POSITION": "accessor_293",
+                        "TEXCOORD_0": "accessor_297"
                     },
-                    "indices": "indices_291",
+                    "indices": "accessor_291",
                     "material": "flowersorange",
                     "primitive": 4
                 }
             ]
         },
         "geom-fleursRoses001": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 398847,
-                        "count": 7265,
-                        "floatAttributesIndexes": {
-                            "attribute_378": 0
-                        },
-                        "indicesCount": 432,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 432
-                    }
-                }
-            },
             "name": "fleursRoses001",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_376",
-                        "POSITION": "attribute_374",
-                        "TEXCOORD_0": "attribute_378"
+                        "NORMAL": "accessor_376",
+                        "POSITION": "accessor_374",
+                        "TEXCOORD_0": "accessor_378"
                     },
-                    "indices": "indices_372",
+                    "indices": "accessor_372",
                     "material": "flowerspink",
                     "primitive": 4
                 }
             ]
         },
         "geom-game_roc": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 411352,
-                        "count": 1446,
-                        "floatAttributesIndexes": {
-                            "attribute_432": 0
-                        },
-                        "indicesCount": 78,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 78
-                    }
-                }
-            },
             "name": "game_roc",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_430",
-                        "POSITION": "attribute_428",
-                        "TEXCOORD_0": "attribute_432"
+                        "NORMAL": "accessor_430",
+                        "POSITION": "accessor_428",
+                        "TEXCOORD_0": "accessor_432"
                     },
-                    "indices": "indices_426",
+                    "indices": "accessor_426",
                     "material": "Standardmaterial",
                     "primitive": 4
                 }
             ]
         },
         "geom-game_starfish": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 406112,
-                        "count": 5240,
-                        "floatAttributesIndexes": {
-                            "attribute_405": 0
-                        },
-                        "indicesCount": 324,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 324
-                    }
-                }
-            },
             "name": "game_starfish",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_403",
-                        "POSITION": "attribute_401",
-                        "TEXCOORD_0": "attribute_405"
+                        "NORMAL": "accessor_403",
+                        "POSITION": "accessor_401",
+                        "TEXCOORD_0": "accessor_405"
                     },
-                    "indices": "indices_399",
+                    "indices": "accessor_399",
                     "material": "starfish",
                     "primitive": 4
                 }
             ]
         },
         "geom-leaves005": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 498764,
-                        "count": 28649,
-                        "floatAttributesIndexes": {
-                            "attribute_540": 0
-                        },
-                        "indicesCount": 1692,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 1692
-                    }
-                }
-            },
             "name": "leaves005",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_538",
-                        "POSITION": "attribute_536",
-                        "TEXCOORD_0": "attribute_540"
+                        "NORMAL": "accessor_538",
+                        "POSITION": "accessor_536",
+                        "TEXCOORD_0": "accessor_540"
                     },
-                    "indices": "indices_534",
+                    "indices": "accessor_534",
                     "material": "fougere2",
                     "primitive": 4
                 }
             ]
         },
         "geom-leaves01": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 412798,
-                        "count": 28638,
-                        "floatAttributesIndexes": {
-                            "attribute_459": 0
-                        },
-                        "indicesCount": 1692,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 1692
-                    }
-                }
-            },
             "name": "leaves01",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_457",
-                        "POSITION": "attribute_455",
-                        "TEXCOORD_0": "attribute_459"
+                        "NORMAL": "accessor_457",
+                        "POSITION": "accessor_455",
+                        "TEXCOORD_0": "accessor_459"
                     },
-                    "indices": "indices_453",
+                    "indices": "accessor_453",
                     "material": "fougere2",
                     "primitive": 4
                 }
             ]
         },
         "geom-leaves02": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 441436,
-                        "count": 28642,
-                        "floatAttributesIndexes": {
-                            "attribute_486": 0
-                        },
-                        "indicesCount": 1692,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 1692
-                    }
-                }
-            },
             "name": "leaves02",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_484",
-                        "POSITION": "attribute_482",
-                        "TEXCOORD_0": "attribute_486"
+                        "NORMAL": "accessor_484",
+                        "POSITION": "accessor_482",
+                        "TEXCOORD_0": "accessor_486"
                     },
-                    "indices": "indices_480",
+                    "indices": "accessor_480",
                     "material": "fougere2",
                     "primitive": 4
                 }
             ]
         },
         "geom-leaves03": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 470078,
-                        "count": 28686,
-                        "floatAttributesIndexes": {
-                            "attribute_513": 0
-                        },
-                        "indicesCount": 1692,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 1692
-                    }
-                }
-            },
             "name": "leaves03",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_511",
-                        "POSITION": "attribute_509",
-                        "TEXCOORD_0": "attribute_513"
+                        "NORMAL": "accessor_511",
+                        "POSITION": "accessor_509",
+                        "TEXCOORD_0": "accessor_513"
                     },
-                    "indices": "indices_507",
+                    "indices": "accessor_507",
                     "material": "fougere2",
                     "primitive": 4
                 }
             ]
         },
         "geom-logo_montage_cabine": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 579691,
-                        "count": 87933,
-                        "floatAttributesIndexes": {
-                            "attribute_621": 0
-                        },
-                        "indicesCount": 5976,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 5976
-                    }
-                }
-            },
             "name": "logo_montage_cabine",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_619",
-                        "POSITION": "attribute_617",
-                        "TEXCOORD_0": "attribute_621"
+                        "NORMAL": "accessor_619",
+                        "POSITION": "accessor_617",
+                        "TEXCOORD_0": "accessor_621"
                     },
-                    "indices": "indices_615",
+                    "indices": "accessor_615",
                     "material": "_7_-_Default",
                     "primitive": 4
                 }
             ]
         },
         "geom-logo_montage_dolphin": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 226161,
-                        "count": 88012,
-                        "floatAttributesIndexes": {
-                            "attribute_216": 0
-                        },
-                        "indicesCount": 5976,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 5976
-                    }
-                }
-            },
             "name": "logo_montage_dolphin",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_214",
-                        "POSITION": "attribute_212",
-                        "TEXCOORD_0": "attribute_216"
+                        "NORMAL": "accessor_214",
+                        "POSITION": "accessor_212",
+                        "TEXCOORD_0": "accessor_216"
                     },
-                    "indices": "indices_210",
+                    "indices": "accessor_210",
                     "material": "logo",
                     "primitive": 4
                 }
             ]
         },
         "geom-logo_montage_roc": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 755636,
-                        "count": 88012,
-                        "floatAttributesIndexes": {
-                            "attribute_675": 0
-                        },
-                        "indicesCount": 5976,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 5976
-                    }
-                }
-            },
             "name": "logo_montage_roc",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_673",
-                        "POSITION": "attribute_671",
-                        "TEXCOORD_0": "attribute_675"
+                        "NORMAL": "accessor_673",
+                        "POSITION": "accessor_671",
+                        "TEXCOORD_0": "accessor_675"
                     },
-                    "indices": "indices_669",
+                    "indices": "accessor_669",
                     "material": "logo",
                     "primitive": 4
                 }
             ]
         },
         "geom-logo_montage_starfish": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 667624,
-                        "count": 88012,
-                        "floatAttributesIndexes": {
-                            "attribute_648": 0
-                        },
-                        "indicesCount": 5976,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 5976
-                    }
-                }
-            },
             "name": "logo_montage_starfish",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_646",
-                        "POSITION": "attribute_644",
-                        "TEXCOORD_0": "attribute_648"
+                        "NORMAL": "accessor_646",
+                        "POSITION": "accessor_644",
+                        "TEXCOORD_0": "accessor_648"
                     },
-                    "indices": "indices_642",
+                    "indices": "accessor_642",
                     "material": "logo",
                     "primitive": 4
                 }
             ]
         },
         "geom-palmes001": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 172152,
-                        "count": 31642,
-                        "floatAttributesIndexes": {
-                            "attribute_162": 0
-                        },
-                        "indicesCount": 2421,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 2421
-                    }
-                }
-            },
             "name": "palmes001",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_160",
-                        "POSITION": "attribute_158",
-                        "TEXCOORD_0": "attribute_162"
+                        "NORMAL": "accessor_160",
+                        "POSITION": "accessor_158",
+                        "TEXCOORD_0": "accessor_162"
                     },
-                    "indices": "indices_156",
+                    "indices": "accessor_156",
                     "material": "gears",
                     "primitive": 4
                 }
             ]
         },
         "geom-rateau": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 146503,
-                        "count": 25649,
-                        "floatAttributesIndexes": {
-                            "attribute_135": 0
-                        },
-                        "indicesCount": 1764,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 1764
-                    }
-                }
-            },
             "name": "rateau",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_133",
-                        "POSITION": "attribute_131",
-                        "TEXCOORD_0": "attribute_135"
+                        "NORMAL": "accessor_133",
+                        "POSITION": "accessor_131",
+                        "TEXCOORD_0": "accessor_135"
                     },
-                    "indices": "indices_129",
+                    "indices": "accessor_129",
                     "material": "toys",
                     "primitive": 4
                 }
             ]
         },
         "geom-tronc005": {
-            "extensions": {
-                "Open3DGC-compression": {
-                    "compressedData": {
-                        "bufferView": "bufferView_708",
-                        "byteOffset": 85195,
-                        "count": 36429,
-                        "floatAttributesIndexes": {
-                            "attribute_54": 0
-                        },
-                        "indicesCount": 2676,
-                        "mode": "ascii",
-                        "type": 5121,
-                        "verticesCount": 2676
-                    }
-                }
-            },
             "name": "tronc005",
             "primitives": [
                 {
                     "attributes": {
-                        "NORMAL": "attribute_52",
-                        "POSITION": "attribute_50",
-                        "TEXCOORD_0": "attribute_54"
+                        "NORMAL": "accessor_52",
+                        "POSITION": "accessor_50",
+                        "TEXCOORD_0": "accessor_54"
                     },
-                    "indices": "indices_48",
+                    "indices": "accessor_48",
                     "material": "trunk",
                     "primitive": 4
                 }
@@ -4128,7 +3823,6 @@
             "name": ""
         }
     },
-    "profile": "WebGL 1.0.2",
     "programs": {
         "program_0": {
             "attributes": [
@@ -4145,17 +3839,8 @@
                 "a_position",
                 "a_texcoord0"
             ],
-            "fragmentShader": "beachplanet2FS",
-            "vertexShader": "beachplanet2VS"
-        },
-        "program_2": {
-            "attributes": [
-                "a_normal",
-                "a_position",
-                "a_texcoord0"
-            ],
-            "fragmentShader": "beachplanet4FS",
-            "vertexShader": "beachplanet4VS"
+            "fragmentShader": "beachplanet1FS",
+            "vertexShader": "beachplanet1VS"
         }
     },
     "samplers": {
@@ -4221,26 +3906,18 @@
             "path": "beachplanet0VS.glsl",
             "type": 35633
         },
-        "beachplanet2FS": {
-            "path": "beachplanet2FS.glsl",
+        "beachplanet1FS": {
+            "path": "beachplanet1FS.glsl",
             "type": 35632
         },
-        "beachplanet2VS": {
-            "path": "beachplanet2VS.glsl",
-            "type": 35633
-        },
-        "beachplanet4FS": {
-            "path": "beachplanet4FS.glsl",
-            "type": 35632
-        },
-        "beachplanet4VS": {
-            "path": "beachplanet4VS.glsl",
+        "beachplanet1VS": {
+            "path": "beachplanet1VS.glsl",
             "type": 35633
         }
     },
     "skins": {},
     "techniques": {
-        "technique1": {
+        "technique0": {
             "parameters": {
                 "ambient": {
                     "type": 35678
@@ -4250,6 +3927,15 @@
                 },
                 "emission": {
                     "type": 35666
+                },
+                "filterColor": {
+                    "type": 35666,
+                    "value": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
                 },
                 "modelViewMatrix": {
                     "semantic": "MODELVIEW",
@@ -4280,6 +3966,9 @@
                 "texcoord0": {
                     "semantic": "TEXCOORD_0",
                     "type": 35664
+                },
+                "transparency": {
+                    "type": 5126
                 }
             },
             "pass": "defaultPass",
@@ -4292,12 +3981,16 @@
                             },
                             "lightingModel": "Phong",
                             "parameters": [
+                                "ambient",
                                 "diffuse",
                                 "emission",
+                                "filterColor",
                                 "modelViewMatrix",
                                 "normalMatrix",
                                 "projectionMatrix",
-                                "shininess"
+                                "shininess",
+                                "specular",
+                                "transparency"
                             ],
                             "texcoordBindings": {
                                 "ambient": "TEXCOORD_0",
@@ -4314,12 +4007,16 @@
                         },
                         "program": "program_0",
                         "uniforms": {
+                            "u_ambient": "ambient",
                             "u_diffuse": "diffuse",
                             "u_emission": "emission",
+                            "u_filterColor": "filterColor",
                             "u_modelViewMatrix": "modelViewMatrix",
                             "u_normalMatrix": "normalMatrix",
                             "u_projectionMatrix": "projectionMatrix",
-                            "u_shininess": "shininess"
+                            "u_shininess": "shininess",
+                            "u_specular": "specular",
+                            "u_transparency": "transparency"
                         }
                     },
                     "states": {
@@ -4331,7 +4028,7 @@
                 }
             }
         },
-        "technique2": {
+        "technique1": {
             "parameters": {
                 "ambient": {
                     "type": 35678
@@ -4341,6 +4038,15 @@
                 },
                 "emission": {
                     "type": 35666
+                },
+                "filterColor": {
+                    "type": 35666,
+                    "value": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
                 },
                 "modelViewMatrix": {
                     "semantic": "MODELVIEW",
@@ -4371,6 +4077,9 @@
                 "texcoord0": {
                     "semantic": "TEXCOORD_0",
                     "type": 35664
+                },
+                "transparency": {
+                    "type": 5126
                 }
             },
             "pass": "defaultPass",
@@ -4383,12 +4092,16 @@
                             },
                             "lightingModel": "Phong",
                             "parameters": [
+                                "ambient",
                                 "diffuse",
                                 "emission",
+                                "filterColor",
                                 "modelViewMatrix",
                                 "normalMatrix",
                                 "projectionMatrix",
-                                "shininess"
+                                "shininess",
+                                "specular",
+                                "transparency"
                             ],
                             "texcoordBindings": {
                                 "ambient": "TEXCOORD_0",
@@ -4405,118 +4118,21 @@
                         },
                         "program": "program_1",
                         "uniforms": {
+                            "u_ambient": "ambient",
                             "u_diffuse": "diffuse",
                             "u_emission": "emission",
+                            "u_filterColor": "filterColor",
                             "u_modelViewMatrix": "modelViewMatrix",
                             "u_normalMatrix": "normalMatrix",
                             "u_projectionMatrix": "projectionMatrix",
-                            "u_shininess": "shininess"
+                            "u_shininess": "shininess",
+                            "u_specular": "specular",
+                            "u_transparency": "transparency"
                         }
                     },
                     "states": {
-                        "blendEnable": 1,
-                        "blendEquation": 32774,
-                        "blendFunc": {
-                            "dfactor": 771,
-                            "sfactor": 1
-                        },
+                        "blendEnable": 0,
                         "cullFaceEnable": 0,
-                        "depthMask": 1,
-                        "depthTestEnable": 1
-                    }
-                }
-            }
-        },
-        "technique3": {
-            "parameters": {
-                "ambient": {
-                    "type": 35678
-                },
-                "diffuse": {
-                    "type": 35678
-                },
-                "emission": {
-                    "type": 35666
-                },
-                "modelViewMatrix": {
-                    "semantic": "MODELVIEW",
-                    "type": 35676
-                },
-                "normal": {
-                    "semantic": "NORMAL",
-                    "type": 35665
-                },
-                "normalMatrix": {
-                    "semantic": "MODELVIEWINVERSETRANSPOSE",
-                    "type": 35675
-                },
-                "position": {
-                    "semantic": "POSITION",
-                    "type": 35665
-                },
-                "projectionMatrix": {
-                    "semantic": "PROJECTION",
-                    "type": 35676
-                },
-                "shininess": {
-                    "type": 5126
-                },
-                "specular": {
-                    "type": 35666
-                },
-                "texcoord0": {
-                    "semantic": "TEXCOORD_0",
-                    "type": 35664
-                }
-            },
-            "pass": "defaultPass",
-            "passes": {
-                "defaultPass": {
-                    "details": {
-                        "commonProfile": {
-                            "extras": {
-                                "doubleSided": false
-                            },
-                            "lightingModel": "Phong",
-                            "parameters": [
-                                "diffuse",
-                                "emission",
-                                "modelViewMatrix",
-                                "normalMatrix",
-                                "projectionMatrix",
-                                "shininess"
-                            ],
-                            "texcoordBindings": {
-                                "ambient": "TEXCOORD_0",
-                                "diffuse": "TEXCOORD_0"
-                            }
-                        },
-                        "type": "COLLADA-1.4.1/commonProfile"
-                    },
-                    "instanceProgram": {
-                        "attributes": {
-                            "a_normal": "normal",
-                            "a_position": "position",
-                            "a_texcoord0": "texcoord0"
-                        },
-                        "program": "program_2",
-                        "uniforms": {
-                            "u_diffuse": "diffuse",
-                            "u_emission": "emission",
-                            "u_modelViewMatrix": "modelViewMatrix",
-                            "u_normalMatrix": "normalMatrix",
-                            "u_projectionMatrix": "projectionMatrix",
-                            "u_shininess": "shininess"
-                        }
-                    },
-                    "states": {
-                        "blendEnable": 1,
-                        "blendEquation": 32774,
-                        "blendFunc": {
-                            "dfactor": 771,
-                            "sfactor": 1
-                        },
-                        "cullFaceEnable": 1,
                         "depthMask": 1,
                         "depthTestEnable": 1
                     }
@@ -4525,139 +4141,139 @@
         }
     },
     "textures": {
-        "texture_image_0": {
+        "texture_assarium_png": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_0",
+            "source": "assarium_png",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_1": {
+        "texture_background_JPG": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_1",
+            "source": "background_JPG",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_10": {
+        "texture_buoy_baked_JPG": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_10",
+            "source": "buoy_baked_JPG",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_11": {
+        "texture_cabin_baked_JPG": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_11",
+            "source": "cabin_baked_JPG",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_12": {
+        "texture_cabin_door_JPG": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_12",
+            "source": "cabin_door_JPG",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_13": {
+        "texture_dolphin_baked_jpg": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_13",
+            "source": "dolphin_baked_jpg",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_14": {
+        "texture_flowers_orange_PNG": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_14",
+            "source": "flowers_orange_PNG",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_15": {
+        "texture_flowers_pink_PNG": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_15",
+            "source": "flowers_pink_PNG",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_16": {
+        "texture_flowers_whites_PNG": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_16",
+            "source": "flowers_whites_PNG",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_2": {
+        "texture_leaves_png": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_2",
+            "source": "leaves_png",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_3": {
+        "texture_logo_cabin_JPG": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_3",
+            "source": "logo_cabin_JPG",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_4": {
+        "texture_logo_montage_jpg": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_4",
+            "source": "logo_montage_jpg",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_5": {
+        "texture_palm_jpg": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_5",
+            "source": "palm_jpg",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_6": {
+        "texture_seaGull_baked_jpg": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_6",
+            "source": "seaGull_baked_jpg",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_7": {
+        "texture_starfish_jpg": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_7",
+            "source": "starfish_jpg",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_8": {
+        "texture_toys_JPG": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_8",
+            "source": "toys_JPG",
             "target": 3553,
             "type": 5121
         },
-        "texture_image_9": {
+        "texture_trunk_JPG": {
             "format": 6408,
             "internalFormat": 6408,
             "sampler": "sampler_0",
-            "source": "image_9",
+            "source": "trunk_JPG",
             "target": 3553,
             "type": 5121
         }

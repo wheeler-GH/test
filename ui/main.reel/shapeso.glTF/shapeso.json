@@ -1,0 +1,623 @@
+{
+    "accessors": {
+        "accessor_16": {
+            "bufferView": "bufferView_62",
+            "byteOffset": 372,
+            "byteStride": 0,
+            "count": 36,
+            "type": 5123
+        },
+        "accessor_18": {
+            "bufferView": "bufferView_63",
+            "byteOffset": 4464,
+            "byteStride": 12,
+            "count": 36,
+            "max": [
+                1,
+                1,
+                1
+            ],
+            "min": [
+                -1,
+                -1,
+                -1
+            ],
+            "type": 35665
+        },
+        "accessor_20": {
+            "bufferView": "bufferView_63",
+            "byteOffset": 4896,
+            "byteStride": 12,
+            "count": 36,
+            "max": [
+                1,
+                1,
+                1
+            ],
+            "min": [
+                -1,
+                -1,
+                -1
+            ],
+            "type": 35665
+        },
+        "accessor_36": {
+            "bufferView": "bufferView_62",
+            "byteOffset": 444,
+            "byteStride": 0,
+            "count": 2880,
+            "type": 5123
+        },
+        "accessor_38": {
+            "bufferView": "bufferView_63",
+            "byteOffset": 5328,
+            "byteStride": 12,
+            "count": 2880,
+            "max": [
+                1,
+                1,
+                1
+            ],
+            "min": [
+                -1,
+                -1,
+                -1
+            ],
+            "type": 35665
+        },
+        "accessor_40": {
+            "bufferView": "bufferView_63",
+            "byteOffset": 39888,
+            "byteStride": 12,
+            "count": 2880,
+            "max": [
+                0.990438,
+                0.990438,
+                0.995138
+            ],
+            "min": [
+                -0.990439,
+                -0.990438,
+                -0.995138
+            ],
+            "type": 35665
+        },
+        "accessor_56": {
+            "bufferView": "bufferView_62",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "count": 186,
+            "type": 5123
+        },
+        "accessor_58": {
+            "bufferView": "bufferView_63",
+            "byteOffset": 0,
+            "byteStride": 12,
+            "count": 186,
+            "max": [
+                1,
+                1,
+                1
+            ],
+            "min": [
+                -1,
+                -1,
+                -1
+            ],
+            "type": 35665
+        },
+        "accessor_60": {
+            "bufferView": "bufferView_63",
+            "byteOffset": 2232,
+            "byteStride": 12,
+            "count": 186,
+            "max": [
+                0.890977,
+                0.890977,
+                0.445488
+            ],
+            "min": [
+                -0.890977,
+                -0.890977,
+                -1
+            ],
+            "type": 35665
+        }
+    },
+    "animations": {},
+    "asset": {
+        "generator": "collada2gltf@63e932907e3f0c834c8668d04f03ddb6eabf78d1",
+        "premultipliedAlpha": true,
+        "profile": "WebGL 1.0.2",
+        "version": 0.6
+    },
+    "bufferViews": {
+        "bufferView_62": {
+            "buffer": "shapeso",
+            "byteLength": 6204,
+            "byteOffset": 0,
+            "target": 34963
+        },
+        "bufferView_63": {
+            "buffer": "shapeso",
+            "byteLength": 74448,
+            "byteOffset": 6204,
+            "target": 34962
+        }
+    },
+    "buffers": {
+        "shapeso": {
+            "byteLength": 80652,
+            "path": "shapeso.bin",
+            "type": "arraybuffer"
+        }
+    },
+    "cameras": {
+        "camera_0": {
+            "perspective": {
+                "aspect_ratio": 1.77778,
+                "xfov": 49.1343,
+                "zfar": 100,
+                "znear": 0.1
+            },
+            "type": "perspective"
+        }
+    },
+    "lights": {
+        "Lamp-light": {
+            "point": {
+                "color": [
+                    1,
+                    1,
+                    1
+                ],
+                "constantAttenuation": 1,
+                "linearAttenuation": 0,
+                "quadraticAttenuation": 0.00111109
+            },
+            "type": "point"
+        }
+    },
+    "materials": {
+        "Material_001-effect": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.64,
+                        0.00383921,
+                        0.00868253,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "shininess": 50,
+                    "specular": [
+                        0.5,
+                        0.0514253,
+                        0.034239,
+                        1
+                    ],
+                    "transparency": 1
+                }
+            },
+            "name": "Material_001"
+        },
+        "Material_003-effect": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.0142641,
+                        0.64,
+                        0.026948,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "shininess": 50,
+                    "specular": [
+                        0.0295353,
+                        0.5,
+                        0.253024,
+                        1
+                    ],
+                    "transparency": 1
+                }
+            },
+            "name": "Material_003"
+        },
+        "Material_004-effect": {
+            "instanceTechnique": {
+                "technique": "technique0",
+                "values": {
+                    "ambient": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "diffuse": [
+                        0.0673708,
+                        0.107478,
+                        0.64,
+                        1
+                    ],
+                    "emission": [
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "filterColor": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "shininess": 207,
+                    "specular": [
+                        0.0441995,
+                        0.127377,
+                        0.5,
+                        1
+                    ],
+                    "transparency": 1
+                }
+            },
+            "name": "Material_004"
+        }
+    },
+    "meshes": {
+        "Cone-mesh": {
+            "name": "Cone",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_60",
+                        "POSITION": "accessor_58"
+                    },
+                    "indices": "accessor_56",
+                    "material": "Material_001-effect",
+                    "primitive": 4
+                }
+            ]
+        },
+        "Cube-mesh": {
+            "name": "Cube",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_20",
+                        "POSITION": "accessor_18"
+                    },
+                    "indices": "accessor_16",
+                    "material": "Material_003-effect",
+                    "primitive": 4
+                }
+            ]
+        },
+        "Sphere-mesh": {
+            "name": "Sphere",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": "accessor_40",
+                        "POSITION": "accessor_38"
+                    },
+                    "indices": "accessor_36",
+                    "material": "Material_004-effect",
+                    "primitive": 4
+                }
+            ]
+        }
+    },
+    "nodes": {
+        "Camera": {
+            "camera": "camera_0",
+            "children": [],
+            "matrix": [
+                0.68588,
+                0.727634,
+                -0.0108168,
+                0,
+                -0.31737,
+                0.312469,
+                0.895343,
+                0,
+                0.654862,
+                -0.610666,
+                0.445245,
+                0,
+                7.48113,
+                -6.50764,
+                5.34367,
+                1
+            ],
+            "name": "Camera"
+        },
+        "Cone": {
+            "children": [],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                -0.206508,
+                -3.11295,
+                3.36159,
+                1
+            ],
+            "meshes": [
+                "Cone-mesh"
+            ],
+            "name": "Cone"
+        },
+        "Cube": {
+            "children": [],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "meshes": [
+                "Cube-mesh"
+            ],
+            "name": "Cube"
+        },
+        "Lamp": {
+            "children": [],
+            "light": "Lamp-light",
+            "matrix": [
+                -0.290865,
+                0.955171,
+                -0.0551891,
+                0,
+                -0.771101,
+                -0.199883,
+                0.604525,
+                0,
+                0.566393,
+                0.218391,
+                0.794672,
+                0,
+                4.07624,
+                1.00545,
+                5.90386,
+                1
+            ],
+            "name": "Lamp"
+        },
+        "Sphere": {
+            "children": [],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0.418042,
+                3.29061,
+                1.01455,
+                1
+            ],
+            "meshes": [
+                "Sphere-mesh"
+            ],
+            "name": "Sphere"
+        }
+    },
+    "programs": {
+        "program_0": {
+            "attributes": [
+                "a_normal",
+                "a_position"
+            ],
+            "fragmentShader": "shapeso0FS",
+            "vertexShader": "shapeso0VS"
+        }
+    },
+    "scene": "defaultScene",
+    "scenes": {
+        "defaultScene": {
+            "nodes": [
+                "Camera",
+                "Lamp",
+                "Cube",
+                "Sphere",
+                "Cone"
+            ]
+        }
+    },
+    "shaders": {
+        "shapeso0FS": {
+            "path": "shapeso0FS.glsl",
+            "type": 35632
+        },
+        "shapeso0VS": {
+            "path": "shapeso0VS.glsl",
+            "type": 35633
+        }
+    },
+    "skins": {},
+    "techniques": {
+        "technique0": {
+            "parameters": {
+                "ambient": {
+                    "type": 35666
+                },
+                "diffuse": {
+                    "type": 35666
+                },
+                "emission": {
+                    "type": 35666
+                },
+                "filterColor": {
+                    "type": 35666,
+                    "value": [
+                        1,
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "light0Color": {
+                    "type": 35665,
+                    "value": [
+                        1,
+                        1,
+                        1
+                    ]
+                },
+                "light0Transform": {
+                    "source": "Lamp",
+                    "type": 35676
+                },
+                "modelViewMatrix": {
+                    "semantic": "MODELVIEW",
+                    "type": 35676
+                },
+                "normal": {
+                    "semantic": "NORMAL",
+                    "type": 35665
+                },
+                "normalMatrix": {
+                    "semantic": "MODELVIEWINVERSETRANSPOSE",
+                    "type": 35675
+                },
+                "position": {
+                    "semantic": "POSITION",
+                    "type": 35665
+                },
+                "projectionMatrix": {
+                    "semantic": "PROJECTION",
+                    "type": 35676
+                },
+                "shininess": {
+                    "type": 5126
+                },
+                "specular": {
+                    "type": 35666
+                },
+                "transparency": {
+                    "type": 5126
+                }
+            },
+            "pass": "defaultPass",
+            "passes": {
+                "defaultPass": {
+                    "details": {
+                        "commonProfile": {
+                            "extras": {
+                                "doubleSided": false
+                            },
+                            "lightingModel": "Phong",
+                            "parameters": [
+                                "ambient",
+                                "diffuse",
+                                "emission",
+                                "filterColor",
+                                "light0Color",
+                                "light0Transform",
+                                "modelViewMatrix",
+                                "normalMatrix",
+                                "projectionMatrix",
+                                "shininess",
+                                "specular",
+                                "transparency"
+                            ]
+                        },
+                        "type": "COLLADA-1.4.1/commonProfile"
+                    },
+                    "instanceProgram": {
+                        "attributes": {
+                            "a_normal": "normal",
+                            "a_position": "position"
+                        },
+                        "program": "program_0",
+                        "uniforms": {
+                            "u_ambient": "ambient",
+                            "u_diffuse": "diffuse",
+                            "u_emission": "emission",
+                            "u_filterColor": "filterColor",
+                            "u_light0Color": "light0Color",
+                            "u_light0Transform": "light0Transform",
+                            "u_modelViewMatrix": "modelViewMatrix",
+                            "u_normalMatrix": "normalMatrix",
+                            "u_projectionMatrix": "projectionMatrix",
+                            "u_shininess": "shininess",
+                            "u_specular": "specular",
+                            "u_transparency": "transparency"
+                        }
+                    },
+                    "states": {
+                        "blendEnable": 0,
+                        "cullFaceEnable": 1,
+                        "depthMask": 1,
+                        "depthTestEnable": 1
+                    }
+                }
+            }
+        }
+    }
+}
